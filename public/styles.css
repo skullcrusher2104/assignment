@@ -1,0 +1,17 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+  }
+  
+  #message {
+    margin-top: 10px;
+    color: red;
+  }
+  
